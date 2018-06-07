@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="me.gavin.daily">
+
+    <application android:theme="@style/AppTheme">
+        <activity android:name=".DailyActivity" />
+    </application>
+
+</manifest>
