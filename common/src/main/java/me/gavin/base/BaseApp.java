@@ -1,4 +1,4 @@
-package me.gavin.common.base;
+package me.gavin.base;
 
 import android.app.Application;
 

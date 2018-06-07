@@ -1,6 +1,6 @@
 package debug;
 
-import me.gavin.common.base.BaseApp;
+import me.gavin.base.BaseApp;
 
 
 public class App extends BaseApp {

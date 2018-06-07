@@ -2,8 +2,8 @@ package debug;
 
 import com.alibaba.android.arouter.launcher.ARouter;
 
-import me.gavin.common.BuildConfig;
-import me.gavin.common.base.BaseApp;
+import me.gavin.daily.BuildConfig;
+import me.gavin.base.BaseApp;
 
 
 public class App extends BaseApp {
