@@ -59,6 +59,7 @@ dependencies {
     androidTestImplementation rootProject.ext.dependencies.espresso
 
     annotationProcessor rootProject.ext.dependencies.arouterCompiler
+    annotationProcessor rootProject.ext.dependencies.daggerCompiler
 
     implementation project(':common')
 }
